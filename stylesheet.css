@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.button {
+    font-size: 9.5pt;
+    font-weight:bold;
+    text-align: center;
+    width: 2em;
+    height: 2em;
+    padding-top: 10px;
+    color:white;
+    border:1px solid black;
+}
+
+.button:hover 
+{
+    background-color: rgb(255,255,255);
+}
+
+.weekday 
+{
+    font-size: 9pt;
+    color:yellow;
+    text-align: center;
+    padding-bottom: 4px;
+}
+.table
+{
+	text-align:center;
+	padding: 5px;
+}
+.tableHeader
+{
+	padding-bottom: 8px;
+}
+.icon
+{
+	
+}
+
+
+
+
+
+
